@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Science graduate student at **UMD College Park** (graduating July 2026), with experience building production-grade data and ML systems. My work spans real-time streaming pipelines, churn prediction models, demand forecasting, and NLP dashboards — deployed on AWS, Azure, and GCP.
+I'm a Data Science graduate student at **UMD College Park** (graduating May 2026), with experience building production-grade data and ML systems. My work spans real-time streaming pipelines, churn prediction models, demand forecasting, and NLP dashboards — deployed on AWS, Azure, and GCP.
 
 - 🔭 Currently working on: Generative AI & LLM fine-tuning (LoRA + RAG)
 - 🌱 Exploring: LLMOps, vector databases, and advanced model deployment
